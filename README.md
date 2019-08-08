@@ -13,5 +13,12 @@ https://crypto.stackexchange.com/questions/3813/how-does-order-preserving-encryp
 BFV pappers available here 
 
 > http://eprint.iacr.org/2011/277
+
+
+
 With additional optimizattion
 > http://eprint.iacr.org/2011/133
+
+
+With http://eprint.iacr.org/2012/099
+
