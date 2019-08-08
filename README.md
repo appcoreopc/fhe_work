@@ -1,10 +1,5 @@
 # fhe_work
 
-
-
-
-
-
 Libaries 
 
 > https://git.njit.edu/palisade/PALISADE/tree/master/src/core/lib/lattice
@@ -13,3 +8,10 @@ Libaries
 
 
 https://crypto.stackexchange.com/questions/3813/how-does-order-preserving-encryption-work (http://www.cc.gatech.edu/~aboldyre/papers/operev.pdf)
+
+
+BFV pappers available here 
+
+> http://eprint.iacr.org/2011/277
+With additional optimizattion
+> http://eprint.iacr.org/2011/133
