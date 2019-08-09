@@ -22,3 +22,6 @@ With additional optimizattion
 
 With http://eprint.iacr.org/2012/099
 
+Interesting - searchable encrpyted database 
+
+> https://blog.cryptographyengineering.com/2019/02/11/attack-of-the-week-searchable-encryption-and-the-ever-expanding-leakage-function/
