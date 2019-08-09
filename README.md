@@ -30,3 +30,7 @@ Interesting - searchable encrpyted database
 Jens Groths
 
 > Homepage of Jens Groth - UCL Computer Science
+
+
+Fundamental of Homo encrpytion.
+> https://eccc.weizmann.ac.il/report/2018/125/download
