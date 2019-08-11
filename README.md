@@ -35,7 +35,7 @@ Jens Groths
 Fundamental of Homo encrpytion.
 > https://eccc.weizmann.ac.il/report/2018/125/download
 
-
+CKKS https://eprint.iacr.org/2016/421.pdf
 
 
 https://crypto.stanford.edu/~eujin/papers/thesis/thesis-eujin.pdf
