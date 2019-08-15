@@ -7,6 +7,12 @@ Libaries
 > HeLib (https://github.com/homenc/HElib)
 
 
+string based possible solution
+
+https://crypto.stackexchange.com/questions/63781/representing-a-function-as-fhe-circuit/63783#63783
+
+
+
 https://crypto.stackexchange.com/questions/3813/how-does-order-preserving-encryption-work (http://www.cc.gatech.edu/~aboldyre/papers/operev.pdf)
 
 
@@ -47,4 +53,5 @@ https://pdfs.semanticscholar.org/0dc8/d1800bc302302485f7cf70792a3825fc6b9b.pdf
 
 
 https://github.com/Fraunhofer-AISEC/rabe
+
 
