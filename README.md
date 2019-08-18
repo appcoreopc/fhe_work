@@ -57,8 +57,12 @@ https://github.com/Fraunhofer-AISEC/rabe
 
 LWE (R05) 
 
+Podcast
 
+https://www.zeroknowledge.fm/88
 
+Snark vs Starks 
+https://medium.com/coinmonks/zk-starks-create-verifiable-trust-even-against-quantum-computers-dd9c6a2bb13d
 
 
 
