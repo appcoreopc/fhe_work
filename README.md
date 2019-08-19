@@ -65,4 +65,9 @@ Snark vs Starks
 https://medium.com/coinmonks/zk-starks-create-verifiable-trust-even-against-quantum-computers-dd9c6a2bb13d
 
 
+https://techcrunch.com/2019/08/17/privacy-researchers-devise-a-noise-exploitation-attack-that-defeats-dynamic-anonymity/
+https://www.usenix.org/system/files/sec19-gadotti_0.pdf
+
+
+
 
