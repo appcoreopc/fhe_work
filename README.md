@@ -76,3 +76,12 @@ https://security.stackexchange.com/questions/39590/whats-the-hash-for-in-ecdhe-r
 
 https://crypto.stackexchange.com/questions/26410/whats-the-gcm-sha-256-of-a-tls-protocol/26434#26434
 
+
+Differential Computation Attacks
+
+https://blog.quarkslab.com/differential-fault-analysis-on-white-box-aes-implementations.html
+
+https://eprint.iacr.org/2019/076.pdf
+
+https://eprint.iacr.org/2019/956.pdf
+
