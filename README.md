@@ -68,9 +68,11 @@ https://medium.com/coinmonks/zk-starks-create-verifiable-trust-even-against-quan
 https://techcrunch.com/2019/08/17/privacy-researchers-devise-a-noise-exploitation-attack-that-defeats-dynamic-anonymity/
 https://www.usenix.org/system/files/sec19-gadotti_0.pdf
 
-
-
-
-
 https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/zk-starks/
+
+TLS stuff 
+
+https://security.stackexchange.com/questions/39590/whats-the-hash-for-in-ecdhe-rsa-aes-gcm-sha
+
+https://crypto.stackexchange.com/questions/26410/whats-the-gcm-sha-256-of-a-tls-protocol/26434#26434
 
