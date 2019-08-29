@@ -102,4 +102,7 @@ Microsoft Identity
 https://docs.microsoft.com/en-us/aspnet/identity/overview/getting-started/
 
 
+Cryptographic Protocol Analysis for Students and Engineers
+
+https://eprint.iacr.org/2019/971.pdf
 
