@@ -8,10 +8,6 @@ Libaries
 
 
 
-
-
-
-
 string based possible solution
 
 https://crypto.stackexchange.com/questions/63781/representing-a-function-as-fhe-circuit/63783#63783
@@ -102,7 +98,4 @@ Microsoft Identity
 https://docs.microsoft.com/en-us/aspnet/identity/overview/getting-started/
 
 
-Cryptographic Protocol Analysis for Students and Engineers
-
-https://eprint.iacr.org/2019/971.pdf
-
+https://eprint.iacr.org/2019/966.pdf
