@@ -103,3 +103,9 @@ https://eprint.iacr.org/2019/966.pdf
 
 Zero-Knowledge Proofs on Secret-Shared Data via Fully Linear PCPs∗
 https://eprint.iacr.org/2019/188.pdf
+
+
+
+For devs
+https://eprint.iacr.org/2019/988.pdf
+
