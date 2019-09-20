@@ -7,15 +7,13 @@ Libaries
 > HeLib (https://github.com/homenc/HElib)
 
 
+Searchable 
 
-
+https://eprint.iacr.org/2019/1038.pdf
 
 
 
 string based possible solution
-
-
-
 
 https://crypto.stackexchange.com/questions/63781/representing-a-function-as-fhe-circuit/63783#63783
 
