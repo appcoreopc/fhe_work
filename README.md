@@ -7,7 +7,7 @@ Libaries
 > HeLib (https://github.com/homenc/HElib)
 
 
-Searchable 
+Searchable encryption
 
 https://eprint.iacr.org/2019/1038.pdf
 
