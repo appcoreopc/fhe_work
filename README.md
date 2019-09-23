@@ -6,6 +6,8 @@ Libaries
 > Microsoft SEAL (https://github.com/microsoft/SEAL)
 > HeLib (https://github.com/homenc/HElib)
 
+https://cseweb.ucsd.edu/~daniele/LatticeLinks/FHE.html
+
 
 Searchable encryption
 
